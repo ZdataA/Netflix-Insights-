@@ -74,8 +74,9 @@ Streaming platforms face constant challenges:
    - Bar chart: Users by Subscription Type
    - Bar chart: Genre popularity 
    - KPI Cards: Percent of Premium Users, Total Users, Avg. Watch Time
-
-
+ ![Image Alt](https://github.com/ZdataA/Netflix-Insights-/blob/main/Netflix1.png?raw=true)
+ ![Image Alt](https://github.com/ZdataA/Netflix-Insights-/blob/main/Netflix.png?raw=true)
+ ![Image Alt](https://github.com/ZdataA/Netflix-Insights-/blob/main/Netflix%20Dashbard.png?raw=true)       
 
 
 **Key Insights**
