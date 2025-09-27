@@ -6,6 +6,14 @@ This project analyzes a Netflix Users Dataset from Kaggle, focusing on user beha
  The goal is to understand subscription trends, watch time distribution, and audience demographics, and to uncover actionable insights that Netflix (or any streaming platform) could use to improve engagement and revenue.
 Dataset: Netflix Users Dataset (Kaggle)
 
+**Data Structure Overview**
+The dataset contains 25,000 rows of user-level records, each representing an individual Netflix subscriber. The fields capture demographics (age, country), subscription type (Basic, Standard, Premium), engagement metrics (watch time in hours, favorite genre), and recency of activity (last login date).
+
+This structure allows us to analyze both who the users are (demographics and geography) and how they behave (subscriptions, viewing habits, engagement). With this blend, we can uncover not only overall trends but also segment-level insights that drive strategic decisions.
+
+![Image Alt](https://github.com/ZdataA/Netflix-Insights-/blob/main/Netflix_Data_Structure.png?raw=true)
+
+
 **Business Problem**
 
 Streaming platforms face constant challenges:
